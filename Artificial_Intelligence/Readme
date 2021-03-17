@@ -1,0 +1,2 @@
+• Tower Defense is a 2-D game which is based on a pathfinding algorithm A*.
+• In the game an airplane will find a path to the endpoint while the player tries to block its path by placing obstacles.
